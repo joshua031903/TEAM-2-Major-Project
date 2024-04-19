@@ -1,2 +1,3 @@
 abc.py is the main driver code file
 Dataset taken from IEEE Dataport : http://ieee-dataport.org/open-access/telugu-handwritten-character-dataset
+After OCR is performed text is returned in output.html
